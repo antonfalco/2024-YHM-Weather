@@ -12,6 +12,9 @@ https://open.substack.com/pub/antonfalco/p/hamilton-ontario-climatology-vs-2024?
 
 This is the January edition and I will be adding new information each month. 
 
+An example of the year end recap from 2023 is below. I used the same style, but have updated the code and write up significantly from the previous year:
+https://open.substack.com/pub/antonfalco/p/yhms-2023-vs-climatology-daily-and?r=lmrru&utm_campaign=post&utm_medium=web
+
 Example outputs:
 
 ![output](https://github.com/antonfalco/2024-YHM-Weather/assets/108304747/1322379d-e7b6-4c53-8e39-7a9620f16f1c)
