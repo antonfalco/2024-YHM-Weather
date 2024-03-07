@@ -5,7 +5,7 @@ This script is ready to run entirely for Canadian cities if you use the same web
 The website of interest is here: https://hamilton.weatherstats.ca/download.html.
 Go to Info >  Download Data. From there, you want to download from Climate Daily/Forecast/Sun, 30 Year Normals (daily), & Extremes (daily). The row limit is per day, so, for example, 60 days gives you the previous 60 days worth of daily data. All of the above spreadsheets are incorporated in the graphics, but if you only wanted daily data, for example, you can quote out the normals and extremes.  
 
-The xlsx files included will run the script, as is, up to February 15th with no issue, but you will have to update them at the beginning of each new month for the most up to date data. You will only have to make sure the titles are the same for the xlsx files as they are for the pandas imports. If so, you are ready to go. 
+The xlsx files included will run the script, as is, up to the end of February with no issue, but you will have to update them at the beginning of each new month for the most up to date data. You will only have to make sure the titles are the same for the xlsx files as they are for the pandas imports. If so, you are ready to go. 
 
 I also include a monthly recap of the meteorology involved in this data collection here, if interested: 
 https://open.substack.com/pub/antonfalco/p/hamilton-ontario-climatology-vs-2024?r=lmrru&utm_campaign=post&utm_medium=web
