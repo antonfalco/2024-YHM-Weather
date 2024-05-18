@@ -11,7 +11,9 @@ I also include a monthly recap of the meteorology involved in this data collecti
 https://open.substack.com/pub/antonfalco/p/hamilton-ontario-climatology-vs-2024?r=lmrru&utm_campaign=post&utm_medium=web
 
 February edition: https://antonfalco.substack.com/p/hamiltons-february-climatology-vs
+
 March edition: https://antonfalco.substack.com/p/hamiltons-march-climatology-vs-observed?r=lmrru&utm_campaign=post&utm_medium=web&triedRedirect=true
+
 April edition: https://antonfalco.substack.com/p/hamiltons-april-climatology-vs-observed
 
 An example of the year end recap from 2023 is below. I used the same style, but have updated the code and write up significantly from the previous year:
