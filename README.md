@@ -7,10 +7,12 @@ Go to Info >  Download Data. From there, you want to download from Climate Daily
 
 The xlsx files included will run the script, as is, up to the end of February with no issue, but you will have to update them at the beginning of each new month for the most up to date data. You will only have to make sure the titles are the same for the xlsx files as they are for the pandas imports. If so, you are ready to go. 
 
-I also include a monthly recap of the meteorology involved in this data collection here, if interested: 
+I also include a monthly recap of the meteorology involved in this data collection here, if interested. January's edition: 
 https://open.substack.com/pub/antonfalco/p/hamilton-ontario-climatology-vs-2024?r=lmrru&utm_campaign=post&utm_medium=web
 
-This is the January edition and I will be adding new information each month. 
+February edition: https://antonfalco.substack.com/p/hamiltons-february-climatology-vs
+March edition: https://antonfalco.substack.com/p/hamiltons-march-climatology-vs-observed?r=lmrru&utm_campaign=post&utm_medium=web&triedRedirect=true
+April edition: https://antonfalco.substack.com/p/hamiltons-april-climatology-vs-observed
 
 An example of the year end recap from 2023 is below. I used the same style, but have updated the code and write up significantly from the previous year:
 https://open.substack.com/pub/antonfalco/p/yhms-2023-vs-climatology-daily-and?r=lmrru&utm_campaign=post&utm_medium=web
